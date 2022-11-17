@@ -1,5 +1,4 @@
 # Cryptocurrency-Report-Generator
-
 Cryptocurrency report generator that collect and store currencies's data every day in a JSON file. The system get the data through the Coinmarketcap APIs and stores 5 types of information:
 
 <p> The cryptocurrency with the largest volume (in $) of the last 24 hours </p>
